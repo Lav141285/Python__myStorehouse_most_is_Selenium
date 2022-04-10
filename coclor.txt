@@ -1,0 +1,7 @@
+0 0 255                  xanh bien dam
+255 165 0              da cam 
+0 128 0               xanh la     
+0 255 255           xanh bien 
+255 215 0            vang 
+255 255 255               trang
+255 0 0             do 
